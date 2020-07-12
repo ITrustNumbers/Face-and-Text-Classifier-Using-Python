@@ -22,7 +22,11 @@ A simple approach to computer vision for differentiating between text and faces 
      * pdf2image, python Library
      
  # Procedure:
-   * First Run the Source Code or the Jupyter Notebook inside the Jupyter Notbook directory to ensure that the everthing is setup correctly
-   * Match the output with the HTML fill provided inside the Notebook directory
-   * Then if you want to use your own sample images then replace your .PNG images with mine inside the readonly/Images.zip directory and the run the Source code again
-   * But to have better quality PNG download your sample images in pdf fromat from the internet and then first delete the Images.zip directory and then replace your pdfs inside readonly/pdf.zip with mine and then run the PDF-PNG.py script and it will conver all the pdf inside the pdf.zip into .PNG  images and store them inside the Images.zip directory and then run the Source Code
+   * First i have the images that i used in the readonly/Images directory and you can choose to use those if you want to just run and experiment with the code
+   * To run the Soucre code first you have to compress the Images directory to Images.zip and save it in the readonly dirctory otherwise you can save it anywhere but you will have to change the source code to add the correct path to the Images.zip folder
+   * If you are done setting up the Images.zip folder you are ready to go just run the source code and you will find results as shown in the HTML file in the jupyter notebook directory
+     * More information about the source code inside the jupyter notebook directory README.md
+   * Now, if you want to use your own images in the experiment just place your .PNG images inside the Images.zip directory and the run Source Code
+   * But, you better image quality i would suggest download the images in .pdf format and then convert them into .PNG
+   * You can convert .pdf file to .PNG images by using the PDF-PNG.py script i provided inside the readonly drictory
+     * More Information about using .pdf file and PDF-PNG.py indside readonly/README.md
