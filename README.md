@@ -4,7 +4,7 @@ A simple approach to computer vision for differentiating between text and faces 
 
 ## How to use the Source Code Your Self
 
-# Requriments:
+# Requirements:
 
    * Google Tesseract-OCR with Engling Language
    
