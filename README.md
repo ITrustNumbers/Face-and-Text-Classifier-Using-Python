@@ -1,0 +1,2 @@
+# Image-adn-Text-Classifier
+A simple approach to computer vision for differentiating between text and faces in an image using Opencv, Tesseract-OCR with python Wrapper Pytesseract and Pillow. In this project I used a dataset of 17 images of newspapers pages with various article and text, and then I used opencv to detect all the faces and pytesseract to extract the text and cached them in a global Data Structure to create a tool that given a "Keyword" will search through all the pages and return a contact sheet of all the faces from the pages in which the "Keyword" was found
