@@ -23,7 +23,7 @@ A simple approach to computer vision for differentiating between text and faces 
      
  # Procedure:
    
-   * First, i have uploaded the images that i used in the readonly/Images directory and you can choose to use those if you want to just run and experiment with the code
+   * I have uploaded the images that i used in the readonly/Images directory and you can choose to use those if you want to just run and experiment with the code
    
    * To run the Soucre code first you have to compress the Images directory to Images.zip and save it in the readonly dirctory otherwise you can save it anywhere but you will have to change the source code to add the correct path to the Images.zip folder
    
