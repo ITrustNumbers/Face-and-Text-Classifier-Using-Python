@@ -1,4 +1,4 @@
-# About the file in Jupyter notebook dirctory
+# About the files inside Jupyter notebook dirctory
 
  ## Image and Text Classifier.ipnyb:
   
@@ -6,7 +6,7 @@
   
  ## Image and text Classifier.py:
  
-  *  The source code for this project with testcases, use this if you want the code but don't use jupyter notebook
+  *  The source code for this project with testcases, use this if you want the code but don't know how to use jupyter notebook
   
   ## Image and text Classifier.html:
   
